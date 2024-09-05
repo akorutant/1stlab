@@ -8,9 +8,9 @@
 
 ## 2. Теперь скопируем файлы четыремя способами:
 ```bash
-    copy C:\Users\User\Documents\helloworld.txt C:\Users\User\Desktop\
+    copy C:\Users\student\Documents\helloworld.txt C:\Users\student\Desktop\
 
-    xcopy C:\Users\User\Documents\helloworld1.txt C:\Users\User\Desktop\ /Y
+    xcopy C:\Users\student\Documents\helloworld1.txt C:\Users\student\Desktop\ /Y
 
     robocopy . helloworddir helloworldnew.txt
 
