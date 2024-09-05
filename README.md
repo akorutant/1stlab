@@ -2,7 +2,7 @@
 
 ## 1. Создание файлов двумя способами:
 ```bash
-    echo Hello World! > helloworld.txt
+    echo . > helloworld.txt
     type nul > helloworld1.txt
 ```
 
