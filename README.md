@@ -37,7 +37,7 @@
 
     erase helloworldovernew.txt
 
-    rm helloworld1.txt
+    move helloworld1.txt %HOMEDRIVE%\$Recycle.Bin\
 ```
 
 
