@@ -37,7 +37,7 @@
 
     erase helloworldovernew.txt
 
-    rmdir /s /q helloworddir
+    rm helloworld1.txt
 ```
 
 
